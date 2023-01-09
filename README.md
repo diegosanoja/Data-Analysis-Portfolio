@@ -25,24 +25,7 @@ This section contains the projects and case studies that I have done to develop 
 
 ### Google Data Analytics Capstone Project
 
-#### Description:
-
-This project was a case study given to me during the final period of the Google Data Analytics professional certificate of Coursera. The objective was to analyze the data of 12 different csv files from a fictional company called Cyclistic and then write a report to present the insights and conclusions obtained from the analysis.
-
-#### Tools Used and Their Purpose:
-
-* Microsoft Excel was used to clean the data.
-* RStudio and the R programming language were used to combine the csv files, make further changes and analyze the cleaned data and then generate a pdf report using RMarkdown.
-
-#### Skills Used:
-
-* Data Cleaning.
-* Data Analysis.
-* Report Writing.
-* Statistics and Mathematics.
-* Problem Solving.
-
-### Google Data Analytics Capstone Project
+https://github.com/diegosanoja/Google-Capstone-Project
 
 #### Description:
 
@@ -65,6 +48,8 @@ This project was a case study given to me during the final period of the Google 
 
 ### Maven Market Project
 
+https://github.com/diegosanoja/Maven-Market-Project
+
 #### Description:
 
 This project was an optional exercise given at the end of the 'Microsoft Power BI Desktop for Business Intelligence' certificate of Udemy whose objective was to use Microsoft Power BI Desktop to create an interactive dashboard using the information of 8 csv files of a fictional company called Maven Market.
@@ -84,6 +69,8 @@ This project was an optional exercise given at the end of the 'Microsoft Power B
 * Problem Solving.
 
 ### Citi Bike Project
+
+https://github.com/diegosanoja/Citi-Bike-project
 
 #### Description:
 
