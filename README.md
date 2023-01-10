@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Diego Sanoja, a graduate with distinction from the Concordia University with good mathematical and statistical skills who speaks English, Spanish and French and completed the Google Data Analytics Professional Certificate in 4 months. I have proficiency with spreadsheets (Excel and Google Sheets), Microsoft Power BI Desktop, SQL (BigQuery and PostgreSQL), and the R, Python and SAS programming languages. 
+I'm Diego Sanoja, a graduate with distinction from the Concordia University with good mathematical and statistical skills who speaks English, Spanish and French and completed the Google Data Analytics Professional Certificate of Coursera in 4 months. I have proficiency with spreadsheets (Excel and Google Sheets), Microsoft Power BI Desktop, SQL (BigQuery and PostgreSQL), and the R, Python and SAS programming languages. 
 
 I'm a person who is a fast learner, focused, hardworking, determined and with high attention to details to do a job individually or as part of a team by following the steps of the process given. 
 
@@ -18,6 +18,7 @@ LinkedIn URL: https://www.linkedin.com/in/diego-sanoja-4060a0242/
   * [Maven Market Project](#maven-market-project)
   * [Citi Bike Project](#citi-bike-project)
 * [Certificates](#certificates)
+* [Honors and Awards](#honors-and-awards)
 
 ## Portfolio Projects
 
@@ -92,3 +93,18 @@ This project was a practice case study that had the purpose of analyzing a Googl
 * Organizational Skills.
 * Statistical Analysis.
 * Problem Solving.
+
+## Certificates
+
+* Master Python Programming: The Complete Python Bootcamp 2021: https://www.udemy.com/certificate/UC-3a94ab9b-69df-41c6-990f-2665de9cce84/
+* The Complete SQL Bootcamp 2021: Go from Zero to Hero: https://www.udemy.com/certificate/UC-b8706cf8-1a94-466b-96a5-5308914bc8c5/
+* Google Data Analytics: https://www.coursera.org/account/accomplishments/professional-cert/URZSZ7GUJVM2
+* Microsoft Power BI Desktop for Business Intelligence: https://www.udemy.com/certificate/UC-f9671dbd-18f6-4229-9650-dfdcab35f913/
+* Tableau for Beginners: Get DA Certified, Grow Your Career: https://concordia.udemy.com/certificate/UC-2e230100-3f43-48fb-bedf-56b331a4f096/
+* The Data Analyst Course: Complete Data Analyst Bootcamp 2022: https://www.udemy.com/certificate/UC-e75fe818-c813-40b4-8ac1-2fab0d050877/
+
+## Honors and Awards
+
+* Dean’s List, Faculty of Arts and Sciences 2017-2018.
+* Dean’s List, Faculty of Arts and Sciences 2018-2019.
+* Bachelor of Science with Distinction, Specialization in Statistics.
