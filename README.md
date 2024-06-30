@@ -2,11 +2,11 @@
 
 ## About me
 
-I'm Diego Sanoja, a Junior Associate of the Enterprise Data Operations and Technology (EDOT) Department at Export Development Canada who graduated with distinction from the Concordia University with good mathematical and statistical skills and completed the Google Data Analytics Professional Certificate of Coursera in 4 months. I have proficiency with spreadsheets (Excel and Google Sheets), Microsoft Power BI Desktop, SQL (BigQuery and PostgreSQL), and the R, Python and SAS programming languages. Furthermore, I speak English, intermediate French and Spanish.
+I graduated with distinction from the Concordia University with good mathematical and statistical skills. Completed 2 professional Certificates in Coursera (Google Data Analytics and Google Advanced Data Analytics). I have proficiency with spreadsheets (Excel and Google Sheets), Microsoft Power BI, Tableau, SQL (BigQuery and MySQL), and the R, Python and SAS programming languages. 
 
-I'm a person who is a fast learner, focused, hardworking, determined and with high attention to details to do a job individually or as part of a team by following the steps of the process given. 
+I have 14 months of professional experience which I got working in Export Development Canada where I performed multiple data analysis skills like reports and dashboards development in Power BI, modifying and storing data from different sources in Excel spreadsheets, and developing documentation to assists in procedures.
 
-Answering questions, finding patterns and connections using data, and creating reports and visuals to show those insights are things that I'm passionate about.
+Currently, I'm looking to work either as a data analyst or a business intelligence analyst.
 
 LinkedIn URL: https://www.linkedin.com/in/diego-sanoja-4060a0242/
 
@@ -18,6 +18,7 @@ LinkedIn URL: https://www.linkedin.com/in/diego-sanoja-4060a0242/
   * [Maven Market Project](#maven-market-project)
   * [Citi Bike Project](#citi-bike-project)
   * [TV Shows Project](#tv-shows-project)
+  * [Salifort Employee Retention Model](#salifort-employee-retention-model)
 * [Certificates](#certificates)
 * [Honors and Awards](#honors-and-awards)
 
@@ -122,8 +123,34 @@ This project was a practice case study that had the purpose of analyzing a Kaggl
 * Statistical Analysis.
 * Problem Solving.
 
+### Salifort Employee Retention Model
+
+https://github.com/diegosanoja/Salifort-Employee-Retention-Model
+
+#### Description:
+
+This project was a case study given to me during the final period of the Google Advanced Data Analytics professional certificate of Coursera. The objective was to analyze the data of a CSV file obtained from Kaggle to create a machine learning using the PACE workflow for a fictional company to help them determine whether an employee will leave or stay and save money that would be used to search for replacements.
+
+#### Tools Used and Their Purpose:
+
+* A jupyter notebook was used to execute the code written using the python programming language to execute the analysis and create the machine learning model.
+* RStudio was used to generate a pdf report using RMarkdown.
+* The PACE (Plan, Analyze, Construct, Execute) workflow was use to guide the project.
+
+#### Skills Used:
+
+* Data Cleaning.
+* Data Analysis.
+* Data Visualization.
+* Report Writing.
+* Organizational Skills.
+* Statistical Analysis.
+* Problem Solving.
+* Machine learning.
+
 ## Certificates
 
+* Google Advanced Data Analytics Specialization: https://www.coursera.org/account/accomplishments/specialization/GHB8T44SJ444
 * Master Python Programming: The Complete Python Bootcamp 2021: https://www.udemy.com/certificate/UC-3a94ab9b-69df-41c6-990f-2665de9cce84/
 * The Complete SQL Bootcamp 2021: Go from Zero to Hero: https://www.udemy.com/certificate/UC-b8706cf8-1a94-466b-96a5-5308914bc8c5/
 * Google Data Analytics: https://www.coursera.org/account/accomplishments/professional-cert/URZSZ7GUJVM2
