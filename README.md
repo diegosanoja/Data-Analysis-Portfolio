@@ -149,7 +149,7 @@ This project was a case study given to me during the final period of the Google 
 * Machine learning.
 * Feature Engineering.
   
-### Salifort Employee Retention Model
+### Mavenland Customer Retention Model
 
 https://github.com/diegosanoja/Mavenland-Customer-Retention-Project
 
