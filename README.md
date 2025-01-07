@@ -19,6 +19,7 @@ LinkedIn URL: https://www.linkedin.com/in/diego-sanoja-4060a0242/
   * [Citi Bike Project](#citi-bike-project)
   * [TV Shows Project](#tv-shows-project)
   * [Salifort Employee Retention Model](#salifort-employee-retention-model)
+  * [Mavenland Customer Retention Model](#mavenland-customer-retention-model)
 * [Certificates](#certificates)
 * [Honors and Awards](#honors-and-awards)
 
