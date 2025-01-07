@@ -147,9 +147,39 @@ This project was a case study given to me during the final period of the Google 
 * Statistical Analysis.
 * Problem Solving.
 * Machine learning.
+* Feature Engineering.
+  
+### Salifort Employee Retention Model
+
+https://github.com/diegosanoja/Mavenland-Customer-Retention-Project
+
+#### Description:
+
+This project was a guided project given by the Maven Analytics platform. The objective was to analyze a dataset and build predictive models using the Python programming language that can provide insights to a fictional European bank of Mavenland to help them reduce the number of clients leaving their bank and by doing that, increase their revenue.
+
+#### Tools Used and Their Purpose:
+
+* A jupyter notebook was used to execute the code written using the python programming language to execute the analysis and create the machine learning model.
+* RStudio was used to generate a pdf report using RMarkdown both in English and Frnech.
+* The PACE (Plan, Analyze, Construct, Execute) workflow was use to guide the project.
+* Google Docs and Google Slides were used to create a project proposal and an executive summary for the results of the project respectively.
+
+#### Skills Used:
+
+* Data Cleaning.
+* Data Analysis.
+* Data Visualization.
+* Report Writing.
+* Organizational Skills.
+* Statistical Analysis.
+* Problem Solving.
+* Machine learning.
+* French.
+* Feature Engineering.
 
 ## Certificates
 
+* Microsoft Power BI Desktop: Advanced DAX for Data Analysis: https://www.udemy.com/certificate/UC-10f877b5-881e-4c20-9635-ef70874283f8/
 * Google Advanced Data Analytics Specialization: https://www.coursera.org/account/accomplishments/specialization/GHB8T44SJ444
 * Master Python Programming: The Complete Python Bootcamp 2021: https://www.udemy.com/certificate/UC-3a94ab9b-69df-41c6-990f-2665de9cce84/
 * The Complete SQL Bootcamp 2021: Go from Zero to Hero: https://www.udemy.com/certificate/UC-b8706cf8-1a94-466b-96a5-5308914bc8c5/
