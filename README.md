@@ -20,6 +20,7 @@ LinkedIn URL: https://www.linkedin.com/in/diego-sanoja-4060a0242/
   * [TV Shows Project](#tv-shows-project)
   * [Salifort Employee Retention Model](#salifort-employee-retention-model)
   * [Mavenland Customer Retention Model](#mavenland-customer-retention-model)
+  * [Subscription-Cohort-Analysis](#subscription-cohort-analysis)
 * [Certificates](#certificates)
 * [Honors and Awards](#honors-and-awards)
 
@@ -42,14 +43,14 @@ This project was a case study given to me during the final period of the Google 
 
 #### Skills Used:
 
-* Data Cleaning.
 * Data Analysis.
+* Data Cleaning.
 * Data Visualization.
-* Report Writing.
-* Statistics and Mathematics.
-* Statistical Analysis.
-* Organizational Skills
+* Organizational Skills.
 * Problem Solving.
+* Report Writing.
+* Statistics & Mathematics.
+* Statistical Analysis.
 
 ### Maven Market Project
 
@@ -66,12 +67,13 @@ This project was an optional exercise given at the end of the 'Microsoft Power B
 
 #### Skills Used:
 
-* Data Cleaning.
 * Data Analysis.
+* Data Cleaning.
 * Data Visualization.
-* Report Writing.
+* DAX Programming Language.
 * Organizational Skills.
 * Problem Solving.
+* Report Writing.
 
 ### Citi Bike Project
 
@@ -90,13 +92,13 @@ This project was a practice case study that had the purpose of analyzing a Googl
 
 #### Skills Used:
 
-* Data Cleaning.
 * Data Analysis.
+* Data Cleaning.
 * Data Visualization.
-* Report Writing.
 * Organizational Skills.
-* Statistical Analysis.
 * Problem Solving.
+* Report Writing.
+* Statistical Analysis.
 
 ### TV Shows Project
 
@@ -116,13 +118,14 @@ This project was a practice case study that had the purpose of analyzing a Kaggl
 
 #### Skills Used:
 
-* Data Cleaning.
 * Data Analysis.
+* Data Cleaning.
 * Data Visualization.
-* Report Writing.
+* DAX Programming Language.
 * Organizational Skills.
-* Statistical Analysis.
 * Problem Solving.
+* Report Writing.
+* Statistical Analysis.
 
 ### Salifort Employee Retention Model
 
@@ -140,15 +143,15 @@ This project was a case study given to me during the final period of the Google 
 
 #### Skills Used:
 
-* Data Cleaning.
 * Data Analysis.
+* Data Cleaning.
 * Data Visualization.
-* Report Writing.
-* Organizational Skills.
-* Statistical Analysis.
-* Problem Solving.
-* Machine learning.
 * Feature Engineering.
+* Machine Learning.
+* Organizational Skills.
+* Problem Solving.
+* Report Writing.
+* Statistical Analysis.
   
 ### Mavenland Customer Retention Model
 
@@ -161,22 +164,49 @@ This project was a guided project given by the Maven Analytics platform. The obj
 #### Tools Used and Their Purpose:
 
 * A jupyter notebook was used to execute the code written using the python programming language to execute the analysis and create the machine learning model.
-* RStudio was used to generate a pdf report using RMarkdown both in English and Frnech.
+* RStudio was used to generate a pdf report using RMarkdown both in English and French.
 * The PACE (Plan, Analyze, Construct, Execute) workflow was use to guide the project.
 * Google Docs and Google Slides were used to create a project proposal and an executive summary for the results of the project respectively.
 
 #### Skills Used:
 
-* Data Cleaning.
 * Data Analysis.
+* Data Cleaning.
 * Data Visualization.
-* Report Writing.
-* Organizational Skills.
-* Statistical Analysis.
-* Problem Solving.
-* Machine learning.
-* French.
+* English.
 * Feature Engineering.
+* French.
+* Machine Learning.
+* Organizational Skills.
+* Problem Solving.
+* Report Writing.
+* Statistical Analysis.
+
+### Subscription-Cohort-Analysis
+
+https://github.com/diegosanoja/Subscription-Cohort-Analysis
+
+#### Description:
+
+About
+This project was a guided project given by the Maven Analytics platform. The objective was to perform a cohort analysis in the given dataset using Power BI to find churning patterns and trends so that the leadership of the Mavenflix fictional company can find ways to increase customer retention.
+
+#### Tools Used and Their Purpose:
+
+* Microsoft Power BI Desktop was used to perform data cleaning and data manipulation of the original dataset and the create the data visualizations necessary to perform the analysis and discover the patterns and trends.
+* RStudio was used to generate a pdf report using RMarkdown both in English and French.
+
+#### Skills Used:
+
+* Data Analysis.
+* Data Cleaning.
+* Data Visualization.
+* DAX Programming Language.
+* English.
+* French.
+* Organizational Skills.
+* Problem Solving.
+* Report Writing.
 
 ## Certificates
 
