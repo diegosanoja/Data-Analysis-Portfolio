@@ -188,7 +188,6 @@ https://github.com/diegosanoja/Subscription-Cohort-Analysis
 
 #### Description:
 
-About
 This project was a guided project given by the Maven Analytics platform. The objective was to perform a cohort analysis in the given dataset using Power BI to find churning patterns and trends so that the leadership of the Mavenflix fictional company can find ways to increase customer retention.
 
 #### Tools Used and Their Purpose:
